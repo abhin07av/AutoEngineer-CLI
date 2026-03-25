@@ -1,0 +1,7 @@
+# AutoEngineer-CLI Dependencies
+crewai>=0.28.0
+litellm>=1.30.0
+podman>=5.0.0
+python-dotenv>=1.0.0
+click>=8.1.0
+fastapi>=0.100.0  # Required by LiteLLM logging
